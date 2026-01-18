@@ -1,1 +1,6 @@
 Olabode Ogundele
+index.md
+about.md
+projects.md
+resume.md
+contact.md
