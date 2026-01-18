@@ -3,6 +3,7 @@ layout: single
 title: About Me
 ---
 
+##About
 I am a Healthcare Data Scientist with a Ph.D. in Health Informatics and a Graduate Certificate in Data Science from the University of Missouri-Columbia.
 
 My experience spans healthcare analytics, machine learning, evaluation research, and decision support systems, with hands-on work using Electronic Health Records (EHR) and Medicaid claims data.
