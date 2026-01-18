@@ -1,4 +1,4 @@
-Olabode Ogundele
+
 index.md
 about.md
 projects.md
